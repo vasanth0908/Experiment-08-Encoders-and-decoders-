@@ -116,6 +116,15 @@ endmodule
 ### RTL LOGIC  
 
 
+FOR DECODER
+![Decoder](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/7bb3abd2-9ffa-4682-844d-c75847e3dc6a)
+
+
+
+FOR ENCODER 
+![encoder](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/2fe5d91f-5b8a-49d5-92f8-5364a9fd498e)
+
+
 
 
 
@@ -123,12 +132,26 @@ endmodule
 
 
 ### TIMING DIGRAMS  
+FOR DECODER
+![dtd](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/99272396-3af1-4ce8-9e6a-adff844e825d)
+
+
+FOR ENCODER
+![Etd](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/763fcf4d-2615-4489-8338-db6122adec23)
 
 
 
 
 
 ### TRUTH TABLE 
+
+FOR DECODER
+![Etd](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/a080debf-00ed-435c-bc99-676798b8b02c)
+
+
+FOR ENCODER
+![ett](https://github.com/vasanth0908/Experiment-08-Encoders-and-decoders-/assets/122000018/0a6db589-3304-4cf5-ab61-7fea7c80928d)
+
 
 
 
